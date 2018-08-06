@@ -1,6 +1,4 @@
 puts "What's your name"
-
-
-
-age = gets.chop 
-puts "I am #{age} years old"
+name = gets.chop
+age = gets.chop
+age = "I am #{age} years old"
